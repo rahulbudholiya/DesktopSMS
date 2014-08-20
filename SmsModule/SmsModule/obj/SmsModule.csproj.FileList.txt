@@ -1,0 +1,13 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\SmsModule.dll
+bin\Debug\SmsModule.pdb
+bin\Debug\GSMCommServer.dll
+bin\Debug\GSMCommShared.dll
+bin\Debug\GSMCommunication.dll
+bin\Debug\PDUConverter.dll
+bin\Debug\GSMCommShared.xml
+bin\Debug\GSMCommunication.xml
+bin\Debug\GSMCommServer.xml
+bin\Debug\PDUConverter.xml
+obj\Debug\SmsModule.dll
+obj\Debug\SmsModule.pdb
